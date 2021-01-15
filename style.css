@@ -1,0 +1,97 @@
+
+.navbar-menu{
+    background-color:#FFFBF0;
+}
+
+.menu {
+    padding-left: 350px;
+}
+.menu a{
+   margin: 10px;
+   font-family: sans-serif;
+   color:#000000a6;
+   font-weight: 600;
+}
+.logo-img{
+    margin-left: 10px;
+    width: 320px;
+}
+h1{
+    font-size: 50px;
+    font-family: monospace;
+    font-weight: 600;
+}
+.rong{
+    color:orange;
+}
+.head-card{
+    margin-top: 90px;
+}
+.banner-img{
+    width: 450px;
+     border: none;
+}
+.head-img{
+    
+    background-color: #FFFBF0;
+}
+.button{
+    background-color: olivedrab;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 10px;
+
+}
+.button:hover{
+    background-color: olivedrab;
+}
+.head-section{
+    margin-top: 100px;
+}
+.woman-jacket{
+    margin-left: 40px;
+    
+}
+.woman-jackets{
+    margin-left: 80px;
+    border: none;
+}
+
+.second-sec{
+    padding-top: 40px;
+    
+}
+.jacket-details{
+    padding-top: 60px;
+}
+.ledis-jacket{
+    padding-top: 40px;
+}
+.man-jacket{
+    margin-left: 40px;
+}
+.jacket-section{
+    border: none;
+}
+.head-body{
+    float: left;
+}
+.card-2{
+    border: none;
+    margin: 50px 50px;
+    
+}
+.brand-watch{
+    padding-top: 80px;
+    border-bottom: 2px solid olivedrab;
+}
+.body-head{
+    margin-bottom: 50px;
+}
+
+
+h4{
+    margin-top: 15px;
+    float: left;
+    margin-right: 100px;
+}
